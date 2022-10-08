@@ -7,8 +7,9 @@
 .banner {
     width: 100%;
     height: 85vh;
-    background-image: url(back.png);
-    background-size: cover;
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     background-position: center;
 }
 
@@ -61,7 +62,7 @@
 
 .c {
     background-color: #ebebe0;
-    padding: 30px;  
+    padding: 30px;
 
 
 }
@@ -131,15 +132,15 @@ button:hover {
     border: none;
 }
 
-.card{
+.card {
     cursor: pointer;
     transition: 0.2s;
 }
 
-.card:hover{
-    border-radius: 0px ;
-    color: white; 
-    background-color: black ;
+.card:hover {
+    border-radius: 0px;
+    color: white;
+    background-color: black;
 }
 
 .card img {
@@ -167,9 +168,8 @@ button:hover {
     color: #fff;
 }
 
-.row{
+.row {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
