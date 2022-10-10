@@ -1,6 +1,6 @@
 # BRL_Portfolio
 
-<img width="2295" alt="logo" src="https://raw.githubusercontent.com/Apoorv-cloud/2_Hacktoberfest-22/main/back.png">
+<img width="2295" alt="logo" src="https://raw.githubusercontent.com/Apoorv-cloud/2_Hacktoberfest-22/main/back.jpg">
 <div align="center">
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/VG-1/PlaylistAdda)
