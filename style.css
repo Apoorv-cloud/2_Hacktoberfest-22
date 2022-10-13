@@ -39,7 +39,7 @@
 .navbar ul li a {
 
     text-decoration: none;
-    color: #fff;
+    color: rgb(95, 18, 18);
     text-transform: uppercase;
 
 }
@@ -163,7 +163,7 @@ button:hover {
 }
 
 .f {
-    background-color: black;
+    background-color: blue;
     padding: 2px 0;
     color: #fff;
 }
