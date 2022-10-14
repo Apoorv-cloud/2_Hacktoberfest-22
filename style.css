@@ -78,7 +78,7 @@
 
 h1 {
     font-size: 42px;
-    text-shadow: 3px 3px white;
+    text-shadow: 3px 3px rgb(226, 226, 226);
     margin: 35px 0;
     font-family: cursive;
 }
