@@ -33,19 +33,16 @@
     display: inline-block;
     margin: 0 20px;
     position: relative;
-
 }
 
 .navbar ul li a {
-
     text-decoration: none;
-    color: #fff;
+    color: rgb(95, 18, 18);
     text-transform: uppercase;
-
 }
 
 .navbar ul li::after {
-    content: '';
+    content: "";
     height: 3px;
     width: 0;
     background: #009688;
@@ -57,14 +54,11 @@
 
 .navbar ul li:hover::after {
     width: 100%;
-
 }
 
 .c {
     background-color: #ebebe0;
     padding: 30px;
-
-
 }
 
 .content {
@@ -84,10 +78,9 @@
 
 h1 {
     font-size: 42px;
-    text-shadow: 3px 3px white;
+    text-shadow: 3px 3px rgb(226, 226, 226);
     margin: 35px 0;
     font-family: cursive;
-
 }
 
 .content p {
@@ -101,7 +94,7 @@ button {
     padding: 15px 0;
     text-align: center;
     margin: 20px 10px;
-    border-radius: 25px;
+    border-radius: 30px;
     font-weight: bold;
     border: 2px solid #009688;
     background: transparent;
@@ -125,7 +118,6 @@ span {
 
 button:hover span {
     width: 100%;
-
 }
 
 button:hover {
@@ -151,7 +143,7 @@ button:hover {
 
 .card-title {
     font-size: 24px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 .card-text {
@@ -163,7 +155,7 @@ button:hover {
 }
 
 .f {
-    background-color: black;
+    background-color: blue;
     padding: 2px 0;
     color: #fff;
 }
